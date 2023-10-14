@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hewa Jalal</h1>
-<h3 align="center">A solution-oriented and a problem solver with 2 years of experience building and maintaining
+<h3 align="center">A solution-oriented and a problem solver with 3 years of experience building and maintaining
 software and software architecture. Highly skilled in communication, collaboration, and technical
 documentation</h3>
 
